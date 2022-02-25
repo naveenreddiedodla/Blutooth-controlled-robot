@@ -40,16 +40,20 @@
 
 # Detail Requirements
 ## High Level Requirements
-ID	DESCRIPTION	STATUS
-HR01	Microcontoller	Program for the project
-HR02	Seat Sensor	Whether the person is existed on seat or not
-HR03	Temperature Sensor	To measure temperature
-HR04	Heat Generate	Seat should be heated
-HR05	Display	Generated heat should be displayed on LCD
+
+|ID	|DESCRIPTION	STATUS|
+|---|---|
+|HR01|	Microcontoller	Program for the project|
+|HR02|	Seat Sensor	Whether the person is existed on seat or not|
+|HR03|	Temperature Sensor	To measure temperature|
+|HR04|  Heat Generate	Seat should be heated|
+|HR05|  Display	Generated heat should be displayed on LCD|
 ## Low Level Requirements
-ID	DESCRIPTION	STATUS
-HLR1_LLR1	ATmega328	Here i have used atmega328 microcontroller
-HLR2_LLR2	PIR(Passive Infrared) sensor	To detect the presence of human
-HLR3_LLR3	LM355 sensor	To measure temperature
-HLR4_LLR4	ADC with PWM-Fast	It operate at a wide frequency range
-HLR5_LLR5	LCD	Temperature should be displayed on LCD
+
+|ID |	DESCRIPTION	STATUS|
+|--|---|
+|HLR1_LLR1|	ATmega328	Here i have used atmega328 microcontroller|
+|HLR2_LLR2|	PIR(Passive Infrared) sensor	To detect the presence of human|
+|HLR3_LLR3|	LM355 sensor	To measure temperature|
+|HLR4_LLR4|	ADC with PWM-Fast	It operate at a wide frequency range|
+|HLR5_LLR5|	LCD	Temperature should be displayed on LCD|
