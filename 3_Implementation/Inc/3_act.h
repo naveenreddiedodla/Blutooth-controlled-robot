@@ -1,3 +1,5 @@
+#ifndef _3_ACT_H_
+#define _3_ACT_H_
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
