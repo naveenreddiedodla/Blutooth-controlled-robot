@@ -1,3 +1,15 @@
+## Components used
+### 1. ATMEGA 328
+#### It is commonly used in many projects and autonomous systems where a simple, low-powered, low cost micro-controller is needed
+### 2. Temperature Sensors.
+#### It is a device used to measure temperature.
+### 3. Heat generator
+### 4. Thermostat.
+#### used for electric current to a heating or cooling.
+### 5. LCD
+#### Liquid Crystal Display used to display Temperature- Generated heat.
+### 6. LED
+#### Light Emitting Diode used as indicator
 ## Features
 1.It sense whether the person is existed or not.   
 2.The person can request, the Heater accordinging to that the heat will generate.  
