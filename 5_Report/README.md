@@ -1,6 +1,6 @@
-# Working Principle
-## AUTOMATIC SEAT HEAT CONTROLLER:
-### This Controller aims to control the temperature in the car. Whenever a person seated in the car, And when button is pushed the button sensor activated and heater sensor also activated after it. Temperature sensor keeps track of the temperature and sends analog value to atmega328 microcontroller. Microcontroller performs certain operations and produce the required output.
+## Working Principle
+### As with the lights in your car, the heated seats are controlled by a type of switch called a relay. A relay allows a small electric current to control a much larger one.
+### When you flip the switch to turn on the seat heater, a small current flows through a coil in the relay. Near this coil is an open switch. When current flows through the coil, it creates a magnetic field, which pulls the switch closed. This completes a circuit, sending electricity from the battery to the seat cushion heating element. The audible click you can hear in some cars when you turn on the seat heater is the relay closing.
 ###  ATMEGA 328
 #### It is commonly used in many projects and autonomous systems where a simple, low-powered, low cost micro-controller is needed
 ###  Temperature Sensors.
